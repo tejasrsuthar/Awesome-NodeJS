@@ -44,11 +44,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Article Series
 *Web Develpoment Article Series collection*
 
-- Series: Building a Google Keep Clone with Vue and Firebase
+- Building a Google Keep Clone with Vue and Firebase
 	- [Part1](https://scotch.io/tutorials/building-a-google-keep-clone-with-vue-and-firebase-pt-1),
 	 [Part2](https://scotch.io/tutorials/building-a-google-keep-clone-with-vue-and-firebase-pt-2),
 	 [Part3](https://scotch.io/tutorials/building-a-google-keep-clone-with-vue-and-firebase-pt-3)
-- Series: Making MEAN Apps with Google Maps
+- Making MEAN Apps with Google Maps
 	- [part1](https://scotch.io/tutorials/making-mean-apps-with-google-maps-part-i),
 	 [Part2](https://scotch.io/tutorials/making-mean-apps-with-google-maps-part-ii)
 
