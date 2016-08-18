@@ -14,6 +14,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Books](#books)
 - [Videos](#videos)
 - [Screencasts](#screencasts)
+- [Learning Courses](#learning-courses)
 
 
 
@@ -118,7 +119,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [NodeCasts](http://nodecasts.net/)
 
 
-## NodeJS Learning Courses
+## Learning Courses
 - [Getting Started for NodeJS - For Beginners](https://www.udemy.com/getting-started-with-nodejs-for-beginners/)
 - [Rapid node trainning](https://www.udemy.com/nodejs-tutorial-from-scratch-by-examples/)
 - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/)
