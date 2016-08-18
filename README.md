@@ -10,7 +10,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Article Series](#article-series)
 - [Frameworks](#frameworks)
 - [Routers](#routers)
-- [Tutorials](#turorials)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Videos](#videos)
+- [Screencasts](#screencasts)
+
 
 
 ## Articles Tutorials Blogs Etc
@@ -81,6 +85,52 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Tutorials
 *Best NodeJS learning tutorials*
 - [Tutorials Point](http://www.tutorialspoint.com/nodejs/) 
+- [Nodeschool.io](http://nodeschool.io/)
+
+## Books
+*Best books related to NodeJS*
+- [Mastering NodeJS](http://www.amazon.in/Mastering-Node-js-Community-Experience-Distilled/dp/1782166327)
+- [Getting Mean Express Angular Manning](http://www.amazon.in/GETTING-MEAN-EXPRESS-ANGLUAR-Manning/dp/9351199134)
+- [NodeJs, MongoDB, AngularJS Development](https://www.amazon.in/Node-js-MongoDB-AngularJS-Development-Developers-ebook/dp/B00KU3OIZ0)
+- [NodeJS Mobile Application Development](http://www.amazon.in/Learning-Node-js-Mobile-Application-Development/dp/178528049X)
+- [Jump Start node JS](http://www.amazon.in/Jump-Start-Node-js-Don-Nguyen/dp/9352131703)
+- [Professional NodeJS](http://www.amazon.in/Professional-Node-js-Building-Javascript-Scalable/dp/1118185463)
+- [Handson NodeJs](https://leanpub.com/hands-on-nodejs)
+- [Node Beginner](https://leanpub.com/nodebeginner)
+- [Smashing NodeJS](https://www.amazon.com/dp/B008Z5OEUY/)
+- 
+
+## Videos
+*Videos to learn NodeJS*
+- [Node tuts](http://nodetuts.com/)
+- [Introduction to Node.js with Ryan Dahl](http://www.youtube.com/watch?v=jo_B4LTHi3I)
+- [Node.js: Asynchronous Purity Leads to Faster Development](http://www.infoq.com/presentations/nodejs)
+- [Parallel Programming with Node.js](http://www.infoq.com/presentations/Parallel-Programming-with-Nodejs)
+- [Server-side JavaScript with Node, Connect & Express](http://vimeo.com/18077379)
+- [Node.js First Look](http://www.lynda.com/Nodejs-tutorials/Nodejs-First-Look/101554-2.html)
+- [Node.js with MongoDB](http://www.youtube.com/watch?v=0_GNHWZHc-o)
+- [Ryan Dahl's Google Tech Talk](http://www.youtube.com/watch?v=F6k8lTrAE2g)
+
+
+## Screencasts
+- [Learn All The Nodes](http://learnallthenodes.com/)
+- [NodeTuts](http://nodetuts.com/)
+- [NodeCasts](http://nodecasts.net/)
+
+
+## NodeJS Learning Courses
+- [Getting Started for NodeJS - For Beginners](https://www.udemy.com/getting-started-with-nodejs-for-beginners/)
+- [Rapid node trainning](https://www.udemy.com/nodejs-tutorial-from-scratch-by-examples/)
+- [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/)
+- [Full Stack JavaScript: Learn Backbone.js, Node.js & MongoDB](https://www.udemy.com/fullstack-javascript/)
+- [The Complete Node JS Developer Course](https://www.udemy.com/the-complete-node-js-developer-course/)
+- [All about NodeJS](https://www.udemy.com/all-about-nodejs/)
+- [Learn Nodejs by building 12 projects](https://www.udemy.com/learn-nodejs-by-building-10-projects/)
+- [A Simple Node.js/Mongo/Restify API in Less Than 3 Hours](https://www.udemy.com/a-simple-nodejs-api/)
+- [RESTful Web API Design with NodeJS](https://www.udemy.com/restful-web-api-design-with-nodejs/)
+- [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
+- [Building Blocks of Express.js](https://www.codeschool.com/courses/building-blocks-of-express-js)
+- [Build an Image Streaming App With Node.js](https://www.codeschool.com/screencasts/build-an-image-streaming-app-with-node-js)
 
 
 
