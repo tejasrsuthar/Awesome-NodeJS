@@ -8,6 +8,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Table of Contents
 - [Articles, Tutorials, Blogs](#articles-tutorials-blogs-etc)
 - [Article Series](#article-series)
+- [Frameworks](#frameworks)
+- [Routers](#routers)
+- [Tutorials](#turorials)
 
 
 ## Articles Tutorials Blogs Etc
