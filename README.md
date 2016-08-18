@@ -23,6 +23,20 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Keeping API Routing Clean Using Express Routers](https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers)
 - [Build a Custom Photo Widget for Your Desktop with Node.js](https://scotch.io/tutorials/build-a-custom-photo-widget-for-your-desktop-with-node-js)
 - [Containerized Testing for Node Applications with Dockunit](https://scotch.io/tutorials/containerized-testing-for-node-applications-with-dockunit)
+- [Accelerating Node.js applications with HTTP/2 Server Push](https://blog.cloudflare.com/accelerating-node-js-applications-with-http-2-server-push/)
+- [An Absolute Beginner's Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
+- [Build Your First HTTP Server in Node.js](http://blog.modulus.io/build-your-first-http-server-in-nodejs)
+- [Object Document Mapper - ODM for Node.js](http://blog.modulus.io/npm-install-camo)
+- [Supercharge your Node.js Applications with Nginx](http://blog.modulus.io/supercharge-your-nodejs-applications-with-nginx)
+- [Learn How to Use Neo4J with Node.js](http://blog.modulus.io/learn-how-to-use-neo4j-with-node.js)
+- [Node.js Tutorial Using MongoDB](http://blog.modulus.io/mongodb-tutorial)
+- [Using Tests to Document a Node.js Module](http://blog.modulus.io/using-tests-to-document-a-nodejs-module)
+- [Learning Server-Side JavaScript with Node.js](http://code.tutsplus.com/tutorials/learning-server-side-javascript-with-nodejs--net-10044)
+- [The Node Beginner Book](http://www.nodebeginner.org/#about)
+- [Node.js Articles](https://howtonode.org/)
+- [Felix's Node.js Guide](http://nodeguide.com/)
+- [Node.js v6.4.0 Documentation](https://nodejs.org/api/)
+- [Mastering NodeJS open html book](http://visionmedia.github.io/masteringnode/book.html)
 
 
 ## Frameworks
@@ -52,6 +66,19 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 	- [part1](https://scotch.io/tutorials/making-mean-apps-with-google-maps-part-i),
 	 [Part2](https://scotch.io/tutorials/making-mean-apps-with-google-maps-part-ii)
 
+## Routers
+*Node Modules for Routing*
+- [ExpressJS Routing](https://expressjs.com/guide/routing.html)
+- [Router - NPM](https://www.npmjs.com/package/router)
+- [Routes - NPM](https://www.npmjs.com/package/routes)
+- [parse-route NPM](https://www.npmjs.com/package/parse-route) Helper to parse route with params
+- [http-hash](https://github.com/Matt-Esch/http-hash) HTTP router based on a strict path tree structure
+
+
+## Tutorials
+* Best NodeJS learning tutorials*
+- [Tutorials Point](http://www.tutorialspoint.com/nodejs/) 
+- 
 
 
 
