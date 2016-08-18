@@ -76,9 +76,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Tutorials
-* Best NodeJS learning tutorials*
+*Best NodeJS learning tutorials*
 - [Tutorials Point](http://www.tutorialspoint.com/nodejs/) 
-- 
+
 
 
 
