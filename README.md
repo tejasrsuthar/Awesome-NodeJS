@@ -51,6 +51,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Web Crawling with NodeJS, PhantomJS and Horseman](http://www.sitepoint.com/web-crawling-node-phantomjs-horseman/)
 - [Server-Side Rendering With React, Node And Express.](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express)
 - [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
+- [How to use JavaScript closures efficiently and avoid memory leaks in your Node.js apps](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
 
 ## Frameworks
 *Web Develpoment Frameworks*
