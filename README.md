@@ -48,6 +48,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Node hero Tutorial: Getting started with NodeJS](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
 - [What's New in NodeJS v6.0](https://blog.risingstack.com/whats-new-in-node-v6/)
 - [Build a better Node.js app with the new JavaScript, ES6](https://scotch.io/tutorials/better-node-with-es6-pt-i)
+- [Web Crawling with NodeJS, PhantomJS and Horseman](http://www.sitepoint.com/web-crawling-node-phantomjs-horseman/)
 
 ## Frameworks
 *Web Develpoment Frameworks*
@@ -115,7 +116,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Ryan Dahl's Google Tech Talk](http://www.youtube.com/watch?v=F6k8lTrAE2g)
 - [Youtube - Building a Multiplayer Shooting Game with Node.JS, MongoDB and WebSocket](https://www.youtube.com/watch?v=PfSwUOBL1YQ)
 - [Node.js easily explained in a funny way](https://www.youtube.com/watch?v=KsjrN-T3ZCs)
-
+- [Youtube - Building a Twitch Chat Bot in 10 Minutes with Node.JS](https://www.youtube.com/watch?v=K6N9dSMb7sM)
 
 ## Screencasts
 - [Learn All The Nodes](http://learnallthenodes.com/)
