@@ -49,6 +49,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [What's New in NodeJS v6.0](https://blog.risingstack.com/whats-new-in-node-v6/)
 - [Build a better Node.js app with the new JavaScript, ES6](https://scotch.io/tutorials/better-node-with-es6-pt-i)
 - [Web Crawling with NodeJS, PhantomJS and Horseman](http://www.sitepoint.com/web-crawling-node-phantomjs-horseman/)
+- [Server-Side Rendering With React, Node And Express.](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express)
 
 ## Frameworks
 *Web Develpoment Frameworks*
