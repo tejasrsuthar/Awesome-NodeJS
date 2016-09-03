@@ -45,7 +45,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Felix's Node.js Guide](http://nodeguide.com/)
 - [Node.js v6.4.0 Documentation](https://nodejs.org/api/)
 - [Mastering NodeJS open html book](http://visionmedia.github.io/masteringnode/book.html)
-
+- [Node hero Tutorial: Getting started with NodeJS](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
+- [What's New in NodeJS v6.0](https://blog.risingstack.com/whats-new-in-node-v6/)
+- [Build a better Node.js app with the new JavaScript, ES6](https://scotch.io/tutorials/better-node-with-es6-pt-i)
 
 ## Frameworks
 *Web Develpoment Frameworks*
@@ -111,6 +113,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Node.js First Look](http://www.lynda.com/Nodejs-tutorials/Nodejs-First-Look/101554-2.html)
 - [Node.js with MongoDB](http://www.youtube.com/watch?v=0_GNHWZHc-o)
 - [Ryan Dahl's Google Tech Talk](http://www.youtube.com/watch?v=F6k8lTrAE2g)
+- [Youtube - Building a Multiplayer Shooting Game with Node.JS, MongoDB and WebSocket](https://www.youtube.com/watch?v=PfSwUOBL1YQ)
+- [Node.js easily explained in a funny way](https://www.youtube.com/watch?v=KsjrN-T3ZCs)
 
 
 ## Screencasts
@@ -132,7 +136,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 - [Building Blocks of Express.js](https://www.codeschool.com/courses/building-blocks-of-express-js)
 - [Build an Image Streaming App With Node.js](https://www.codeschool.com/screencasts/build-an-image-streaming-app-with-node-js)
-
 
 
 
