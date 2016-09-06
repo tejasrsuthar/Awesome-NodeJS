@@ -55,7 +55,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Frameworks
 *Web Develpoment Frameworks*
-
+- [Adonis](http://www.adonisjs.com/) - NodeJS MV* framework inspired by Laravel  
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [Koa.js](http://koajs.com/) - Next generation framework for Node.js
 - [totaljs](https://www.totaljs.com/) - Node.js web framework
