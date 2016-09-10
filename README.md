@@ -141,7 +141,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 - [Building Blocks of Express.js](https://www.codeschool.com/courses/building-blocks-of-express-js)
 - [Build an Image Streaming App With Node.js](https://www.codeschool.com/screencasts/build-an-image-streaming-app-with-node-js)
-
+- [NODE.JS LIVE Online & Classroom Training/Tutorial](http://www.springpeople.com/courses/online/nodejs-jumpstart-workshop-training-course)
 
 
 
