@@ -20,6 +20,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Articles Tutorials Blogs Etc
 *Latest articles, tutorials, blogs collection*
+- [HTML5 Video: Transcoding with Node.js and AWS](https://lostechies.com/bradcarleton/2013/11/20/html5-video-transcoding-with-node-js-and-aws/)
 - [Creating RESTful APIs with NodeJS and MongoDB Tutorial](http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/)
 - [Server-side Web Components: How and Why?](https://scotch.io/tutorials/server-side-web-components-how-and-why)
 - [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
@@ -105,7 +106,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Handson NodeJs](https://leanpub.com/hands-on-nodejs)
 - [Node Beginner](https://leanpub.com/nodebeginner)
 - [Smashing NodeJS](https://www.amazon.com/dp/B008Z5OEUY/)
-- 
+
 
 ## Videos
 *Videos to learn NodeJS*
