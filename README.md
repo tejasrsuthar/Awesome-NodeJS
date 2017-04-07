@@ -3,6 +3,8 @@ A curated collection of best NodeJS Resources
 
 > While wokring with NodeJS as a beginner level, many starters are facing issues from where to get help, resources, tips & tricks. This is just a little effort to reduce that and users can find easily all the resources related to laravel being Books, Articles, Latest News, Security Fixes, Cheatsheets and many more. 
 
+#### Pull requests are most welcome, if you found great resource about NodeJS
+
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
