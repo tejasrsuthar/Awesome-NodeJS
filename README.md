@@ -22,6 +22,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Articles Tutorials Blogs Etc
 *Latest articles, tutorials, blogs collection*
+- [https://techcrunch.com/2016/10/11/facebook-partners-with-google-others-to-launch-a-new-javascript-package-manager/](https://techcrunch.com/2016/10/11/facebook-partners-with-google-others-to-launch-a-new-javascript-package-manager/)
+- [How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript](http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/)
 - [HTML5 Video: Transcoding with Node.js and AWS](https://lostechies.com/bradcarleton/2013/11/20/html5-video-transcoding-with-node-js-and-aws/)
 - [Creating RESTful APIs with NodeJS and MongoDB Tutorial](http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/)
 - [Server-side Web Components: How and Why?](https://scotch.io/tutorials/server-side-web-components-how-and-why)
