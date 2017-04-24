@@ -21,7 +21,17 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Articles Tutorials Blogs Etc
-*Latest articles, tutorials, blogs collection*
+*Latest articles, tutorials, blogs collection*\
+- [Home Automation: Raspberry Pi 3 based home automation with NodeJS and React Native](https://github.com/deepsyx/home-automation)
+- [Faker.js: Generate massive amounts of fake data in the browser and node.js](https://github.com/Marak/faker.js)
+- [Build your first Node.js microservice](http://mxstbr.blog/2017/01/your-first-node-microservice)
+- [Enlightenments from the Node Gurus](https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus)
+- [Beautiful APIs in Node](https://medium.com/software-engineering/beautiful-node-apis-eaf0b636cbe)
+- [Ground Control to Major Tom: How NASA Uses Node.js](https://nodejs.org/static/documents/casestudies/Node_CaseStudy_Nasa_FNL.pdf)
+- [NodeJS interview questions and answers](http://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
+- [Retrogames Library with Node, React, and Redux 1: Server API and React Frontend](https://scotch.io/tutorials/retrogames-library-with-node-react-and-redux-1-server-api-and-react-frontend)
+- [Best Practices for Writing Node.js REST APIs](http://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis)
+- [How to build your own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253)
 - [Introduction to Node & Express](https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd)
 - [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
 - [How to build a URL Shortener with Node.JS, MongoDB, Hapi.JS](http://codetuts.tech/build-a-url-shortener-node-hapi-js)
@@ -124,6 +134,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Videos
 *Videos to learn NodeJS*
+- [Node.js Login System With Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
 - [Node tuts](http://nodetuts.com/)
 - [Introduction to Node.js with Ryan Dahl](http://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Node.js: Asynchronous Purity Leads to Faster Development](http://www.infoq.com/presentations/nodejs)
