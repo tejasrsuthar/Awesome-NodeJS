@@ -22,7 +22,17 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Articles Tutorials Blogs Etc
 *Latest articles, tutorials, blogs collection*
-- [https://techcrunch.com/2016/10/11/facebook-partners-with-google-others-to-launch-a-new-javascript-package-manager/](https://techcrunch.com/2016/10/11/facebook-partners-with-google-others-to-launch-a-new-javascript-package-manager/)
+- [Introduction to Node & Express](https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd)
+- [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+- [How to build a URL Shortener with Node.JS, MongoDB, Hapi.JS](http://codetuts.tech/build-a-url-shortener-node-hapi-js)
+- [Advanced Node.js Project Structure Tutorial](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale)
+- [19 things I learnt reading the NodeJS docs.](https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [Building and securing a modern backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
+- [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node)
+- [Node Hero Tutorial about NodeJS](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
+- [How I built an app with 500,000 users in 5 days on a $100 server](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83#.8pkwyo6m4)
+- [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27#.7qtgzho1a)
+- [Facebook partners with Google, others to launch a new JavaScript package manager](https://techcrunch.com/2016/10/11/facebook-partners-with-google-others-to-launch-a-new-javascript-package-manager/)
 - [How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript](http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/)
 - [HTML5 Video: Transcoding with Node.js and AWS](https://lostechies.com/bradcarleton/2013/11/20/html5-video-transcoding-with-node-js-and-aws/)
 - [Creating RESTful APIs with NodeJS and MongoDB Tutorial](http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/)
