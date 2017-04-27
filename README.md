@@ -135,6 +135,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Videos
 *Videos to learn NodeJS*
+- [The New Boston NodeJS vidoes for Beginners](https://thenewboston.com/videos.php?cat=355)
 - [Node.js Login System With Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
 - [Node tuts](http://nodetuts.com/)
 - [Introduction to Node.js with Ryan Dahl](http://www.youtube.com/watch?v=jo_B4LTHi3I)
