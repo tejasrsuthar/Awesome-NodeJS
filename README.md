@@ -80,6 +80,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Frameworks
 *Web Develpoment Frameworks*
+- [Cylon](https://github.com/hybridgroup/cylon/) - NodeJS framework for robotics, drones, and the Internet of Things
 - [DerbyJS](http://derbyjs.com/)
 - [Loopback](https://loopback.io/) - NodeJS API Framework
 - [Adonis](http://www.adonisjs.com/) - NodeJS MV* framework inspired by Laravel  
