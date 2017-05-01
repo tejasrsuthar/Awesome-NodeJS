@@ -11,6 +11,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Articles, Tutorials, Blogs](#articles-tutorials-blogs-etc)
 - [Article Series](#article-series)
 - [Frameworks](#frameworks)
+- [Frameworks](#)
 - [Routers](#routers)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -95,6 +96,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [ActionHero](http://www.actionherojs.com/)
 - [sequelizejs](http://docs.sequelizejs.com/en/v3/) - ORM framework for PostgreSQL, MySQL, SQLite and MSSQL
 - [Socket.io](http://socket.io/)
+
+
+## Admin/Frontend
+- [Aqua](https://jedireza.github.io/aqua/) - Full featured Admin / Frontend developed with NodeJS, MongoDB, React
 
 
 ## Article Series
