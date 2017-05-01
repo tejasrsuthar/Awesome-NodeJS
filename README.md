@@ -81,8 +81,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Frameworks
 *Web Develpoment Frameworks*
+- [Strapi](http://strapi.io/) - The next generation framework for Node.js
 - [Cylon](https://github.com/hybridgroup/cylon/) - NodeJS framework for robotics, drones, and the Internet of Things
-- [DerbyJS](http://derbyjs.com/)
+- [DerbyJS](http://derbyjs.com/) - Full-stack framework for writing modern web applications
 - [Loopback](https://loopback.io/) - NodeJS API Framework
 - [Adonis](http://www.adonisjs.com/) - NodeJS MV* framework inspired by Laravel  
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
