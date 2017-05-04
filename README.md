@@ -12,6 +12,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Article Series](#article-series)
 - [Frameworks](#frameworks)
 - [Admin/Frontend](#adminfrontend)
+- [Database Drivers](#database-drivers)
 - [Routers](#routers)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -103,6 +104,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Admin/Frontend
 - [Aqua](https://jedireza.github.io/aqua/) - Full featured Admin / Frontend developed with NodeJS, MongoDB, React
 
+## Database Drivers/Clients
+- [MySQL](https://www.npmjs.com/package/mysql) - MySQL Database client
+- [Mongoose](https://www.npmjs.com/package/mongoose) - MongoDB Databse client
 
 
 ## Article Series
