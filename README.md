@@ -107,7 +107,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Database Drivers/Clients
 - [MySQL](https://www.npmjs.com/package/mysql) - MySQL Database client
 - [Mongoose](https://www.npmjs.com/package/mongoose) - MongoDB Databse client
-
+- [PostgreSQL](https://www.npmjs.com/package/pg) - PostgreSQL Database client
+- [SQLite](https://www.npmjs.com/package/sqlite) - SQLite Database client
 
 ## Article Series
 *Web Develpoment Article Series collection*
