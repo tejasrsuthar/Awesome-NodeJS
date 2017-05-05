@@ -103,7 +103,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Admin/Frontend
 - [Aqua](https://jedireza.github.io/aqua/) - Full featured Admin / Frontend developed with NodeJS, MongoDB, React
-- [Lumber](https://www.forestadmin.com/lumber/) - The Admin Interface Framework
 
 ## Database Drivers/Clients
 - [MySQL](https://www.npmjs.com/package/mysql) - MySQL Database client
