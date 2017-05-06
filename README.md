@@ -109,6 +109,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Mongoose](https://www.npmjs.com/package/mongoose) - MongoDB Databse client
 - [PostgreSQL](https://www.npmjs.com/package/pg) - PostgreSQL Database client
 - [SQLite](https://www.npmjs.com/package/sqlite) - SQLite Database client
+- [Oracle](https://github.com/oracle/node-oracledb) - Oracle Database client
 
 ## Article Series
 *Web Develpoment Article Series collection*
