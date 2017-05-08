@@ -110,6 +110,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [PostgreSQL](https://www.npmjs.com/package/pg) - PostgreSQL Database client
 - [SQLite](https://www.npmjs.com/package/sqlite) - SQLite Database client
 - [Oracle](https://github.com/oracle/node-oracledb) - Oracle Database client
+- [IBM DB2](https://github.com/ibmdb/node-ibm_db) - IBM DB2 and IBM Informix bindings for node
 
 ## Article Series
 *Web Develpoment Article Series collection*
