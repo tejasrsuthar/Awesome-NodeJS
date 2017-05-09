@@ -23,7 +23,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Articles Tutorials Blogs Etc
-*Latest articles, tutorials, blogs collection*\
+*Latest articles, tutorials, blogs collection*
+- [Understanding NodeJS event driven architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
 - [Home Automation: Raspberry Pi 3 based home automation with NodeJS and React Native](https://github.com/deepsyx/home-automation)
 - [Faker.js: Generate massive amounts of fake data in the browser and node.js](https://github.com/Marak/faker.js)
 - [Build your first Node.js microservice](http://mxstbr.blog/2017/01/your-first-node-microservice)
