@@ -8,6 +8,7 @@ A curated collection of best NodeJS Resources
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
+- [NodeJS Community] (#nodejs-community)
 - [Articles, Tutorials, Blogs](#articles-tutorials-blogs-etc)
 - [Article Series](#article-series)
 - [Frameworks](#frameworks)
@@ -81,6 +82,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Server-Side Rendering With React, Node And Express.](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express)
 - [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
 - [How to use JavaScript closures efficiently and avoid memory leaks in your Node.js apps](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
+
+## NodeJS Communities
+- [Stackoverflow NodeJS Tag](https://stackoverflow.com/questions/tagged/node.js)
+- [Github Issues list](https://github.com/nodejs/node/issues)
+- [freenode's WebChat](http://webchat.freenode.net/?channels=node.js)
+- [NodeJS Everywhere](https://newsletter.nodejs.org/)
+- [NodeUp](http://nodeup.com/) - A podcast covering the latest Node news in the community.
+- [NodeJS Gitter](https://gitter.im/nodejs/node)
 
 ## Frameworks
 *Web Develpoment Frameworks*
