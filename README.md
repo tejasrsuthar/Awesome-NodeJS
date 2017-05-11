@@ -83,7 +83,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
 - [How to use JavaScript closures efficiently and avoid memory leaks in your Node.js apps](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
 
-## NodeJS Communities
+## NodeJS Community
 - [Stackoverflow NodeJS Tag](https://stackoverflow.com/questions/tagged/node.js)
 - [Github Issues list](https://github.com/nodejs/node/issues)
 - [freenode's WebChat](http://webchat.freenode.net/?channels=node.js)
