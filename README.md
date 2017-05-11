@@ -8,7 +8,7 @@ A curated collection of best NodeJS Resources
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
-- [NodeJS Community] (#nodejs-community)
+- [NodeJS Community](#nodejs-community)
 - [Articles, Tutorials, Blogs](#articles-tutorials-blogs-etc)
 - [Article Series](#article-series)
 - [Frameworks](#frameworks)
