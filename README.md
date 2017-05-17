@@ -25,6 +25,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Articles Tutorials Blogs Etc
 *Latest articles, tutorials, blogs collection*
+- [LeaernYouNode](https://github.com/workshopper/learnyounode) - Self-guided workshops for learn NodeJS basics
 - [TheNodeWay](http://thenodeway.io/) - Awesome site to learn NodeJS fundamentals
 - [The definitive guide to choosing the Best JS Framework](http://blog.500tech.com/best-js-framework/)
 - [Understanding NodeJS event driven architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
