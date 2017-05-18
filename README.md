@@ -12,6 +12,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Articles, Tutorials, Blogs](#articles-tutorials-blogs-etc)
 - [Article Series](#article-series)
 - [Frameworks](#frameworks)
+- [CMS](#cms)
 - [Admin/Frontend](#adminfrontend)
 - [Database Drivers](#database-drivers)
 - [Routers](#routers)
@@ -112,6 +113,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [ActionHero](http://www.actionherojs.com/)
 - [sequelizejs](http://docs.sequelizejs.com/en/v3/) - ORM framework for PostgreSQL, MySQL, SQLite and MSSQL
 - [Socket.io](http://socket.io/)
+
+## CMS
+- [Ghost](https://ghost.org/) - The professional publishing platform developed in NodeJS
+- [Keystone](http://keystonejs.com/) - Node.js CMS & Web Application Platform
 
 
 ## Admin/Frontend
