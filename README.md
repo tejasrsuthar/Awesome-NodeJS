@@ -7,7 +7,7 @@
 
 #### :anchor:  Pull requests are most welcome, if you found great resource about NodeJS
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
 - [NodeJS Community](#nodejs-community)
