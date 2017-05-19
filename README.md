@@ -22,7 +22,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Screencasts](#screencasts)
 - [Learning Courses](#learning-courses)
 
-
+## NodeJS Community
+- [Stackoverflow](https://stackoverflow.com/questions/tagged/node.js) - Stackoverflow NodeJS Tag
+- [Github Issues list](https://github.com/nodejs/node/issues)
+- [freenode's WebChat](http://webchat.freenode.net/?channels=node.js)
+- [NodeJS Everywhere](https://newsletter.nodejs.org/) - The official Node.js Weekly Newsletter.
+- [NodeUp](http://nodeup.com/) - A podcast covering the latest Node news in the community.
+- [NodeJS Gitter](https://gitter.im/nodejs/node)
 
 ## Articles Tutorials Blogs Etc
 *Latest articles, tutorials, blogs collection*
@@ -86,13 +92,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
 - [How to use JavaScript closures efficiently and avoid memory leaks in your Node.js apps](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
 
-## NodeJS Community
-- [Stackoverflow](https://stackoverflow.com/questions/tagged/node.js) - Stackoverflow NodeJS Tag
-- [Github Issues list](https://github.com/nodejs/node/issues)
-- [freenode's WebChat](http://webchat.freenode.net/?channels=node.js)
-- [NodeJS Everywhere](https://newsletter.nodejs.org/) - The official Node.js Weekly Newsletter.
-- [NodeUp](http://nodeup.com/) - A podcast covering the latest Node news in the community.
-- [NodeJS Gitter](https://gitter.im/nodejs/node)
 
 ## Frameworks
 *Web Develpoment Frameworks*
