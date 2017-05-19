@@ -15,6 +15,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [CMS](#cms)
 - [Admin/Frontend](#adminfrontend)
 - [Database Drivers](#database-drivers)
+- [Debugging Tools](#debugging-tools)
 - [Routers](#routers)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -128,6 +129,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [SQLite](https://www.npmjs.com/package/sqlite) - SQLite Database client
 - [Oracle](https://github.com/oracle/node-oracledb) - Oracle Database client
 - [IBM DB2](https://github.com/ibmdb/node-ibm_db) - IBM DB2 and IBM Informix bindings for node
+
+## Debugging Tools
+- [Core Node Debugger](https://nodejs.org/api/debugger.html)
+- [Node Inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 
 ## Article Series
 *Web Develpoment Article Series collection*
