@@ -35,6 +35,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 
 ## Articles Tutorials Blogs Etc
 *Latest articles, tutorials, blogs collection*
+- [Custom Photo Widget with NodeJS](https://scotch.io/tutorials/build-a-custom-photo-widget-for-your-desktop-with-node-js) 
 - [LearnYouNode](https://github.com/workshopper/learnyounode) - Self-guided workshops for learn NodeJS basics
 - [TheNodeWay](http://thenodeway.io/) - Awesome site to learn NodeJS fundamentals
 - [The definitive guide to choosing the Best JS Framework](http://blog.500tech.com/best-js-framework/)
