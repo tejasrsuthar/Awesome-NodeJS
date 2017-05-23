@@ -19,6 +19,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Database Drivers](#database-drivers)
 - [Debugging Tools](#debugging-tools)
 - [Routers](#routers)
+- [Form Validation](#form-validation)
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
@@ -156,6 +157,8 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [parse-route NPM](https://www.npmjs.com/package/parse-route) Helper to parse route with params
 - [http-hash](https://github.com/Matt-Esch/http-hash) HTTP router based on a strict path tree structure
 
+## Form Validation
+- [Caolan/forms](https://github.com/caolan/forms) - An easy way to create, parse and validate forms in node.js
 
 ## Tutorials
 *Best NodeJS learning tutorials*
