@@ -134,6 +134,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [SQLite](https://www.npmjs.com/package/sqlite) - SQLite Database client
 - [Oracle](https://github.com/oracle/node-oracledb) - Oracle Database client
 - [IBM DB2](https://github.com/ibmdb/node-ibm_db) - IBM DB2 and IBM Informix bindings for node
+- [MariaDB](https://www.npmjs.com/package/mariasql) - A node.js binding to the non-blocking client library provided with MariaDB
 
 ## Debugging Tools
 - [Core Node Debugger](https://nodejs.org/api/debugger.html)
