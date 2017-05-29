@@ -140,6 +140,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Core Node Debugger](https://nodejs.org/api/debugger.html)
 - [Node Inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [Joyent's Guide](https://www.joyent.com/node-js/production/debug)
+- [Visual Studio Code](https://code.visualstudio.com/docs/runtimes/nodejs#_debugging-your-node-application)
 
 ## Article Series
 *Web Develpoment Article Series collection*
