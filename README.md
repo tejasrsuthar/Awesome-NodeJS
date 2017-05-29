@@ -204,6 +204,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Learn All The Nodes](http://learnallthenodes.com/)
 - [NodeTuts](http://nodetuts.com/)
 - [NodeCasts](http://nodecasts.net/)
+- [5 Fantastic & Free Screencast Sites for Node Developers](http://scottksmith.com/blog/2015/02/26/5-fantastic-and-free-screencast-sites-for-node-developers/)
 
 
 ## Learning Courses
