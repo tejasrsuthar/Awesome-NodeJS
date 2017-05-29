@@ -139,6 +139,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 ## Debugging Tools
 - [Core Node Debugger](https://nodejs.org/api/debugger.html)
 - [Node Inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
+- [Joyent's Guide](https://www.joyent.com/node-js/production/debug)
 
 ## Article Series
 *Web Develpoment Article Series collection*
