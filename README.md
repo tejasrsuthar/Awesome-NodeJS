@@ -39,6 +39,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Node.js at Scale - for advanced developers](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/) 
 - [Custom Photo Widget with NodeJS](https://scotch.io/tutorials/build-a-custom-photo-widget-for-your-desktop-with-node-js) 
 - [LearnYouNode](https://github.com/workshopper/learnyounode) - Self-guided workshops for learn NodeJS basics
+- [Medium Publicatinos for Node](https://medium.com/search/publications?q=node)
 - [TheNodeWay](http://thenodeway.io/) - Awesome site to learn NodeJS fundamentals
 - [The definitive guide to choosing the Best JS Framework](http://blog.500tech.com/best-js-framework/)
 - [Understanding NodeJS event driven architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
