@@ -37,6 +37,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 ## Articles Tutorials Blogs Etc
 *Latest articles, tutorials, blogs collection*
 - [Node.js at Scale - for advanced developers](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/) 
+- [Hard-won Lessions](https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js)
 - [Custom Photo Widget with NodeJS](https://scotch.io/tutorials/build-a-custom-photo-widget-for-your-desktop-with-node-js) 
 - [LearnYouNode](https://github.com/workshopper/learnyounode) - Self-guided workshops for learn NodeJS basics
 - [Medium Publicatinos for Node](https://medium.com/search/publications?q=node)
