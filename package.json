@@ -4,7 +4,7 @@
   "description": "Curated directory for node js resources",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
