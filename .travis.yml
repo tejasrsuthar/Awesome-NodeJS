@@ -4,11 +4,10 @@ node_js:
   - stable
 
 before_script:
-  - git config --global user.email "foo@bar.com"
+  - git config --global user.email "fo@bar.com"
   - git config --global user.name "Foo Bar"
-  - npm install -g jscs
-  - curl -X PUT http://127.0.0.1:5984/travis-node-demo
-  - curl -X GET http://127.0.0.1:5984/_all_dbs
+
+
 
 script:
   - npm test
