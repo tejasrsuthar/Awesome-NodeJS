@@ -125,7 +125,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 ## CMS
 - [Ghost](https://ghost.org/) - The professional publishing platform developed in NodeJS
 - [Keystone](http://keystonejs.com/) - Node.js CMS & Web Application Platform
-
+- [Apostrophe](http://apostrophecms.org/) - CMS framework for Node.js that supports in-context editing, schema-driven content types,flexible widgets, and much more.
 
 ## Admin/Frontend
 - [Aqua](https://jedireza.github.io/aqua/) - Full featured Admin / Frontend developed with NodeJS, MongoDB, React
