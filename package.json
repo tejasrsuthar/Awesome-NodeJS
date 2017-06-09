@@ -1,0 +1,23 @@
+{
+  "name": "awesome-node-js",
+  "version": "1.0.0",
+  "description": "Curated directory for node js resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasrsuthar/Awesome-NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "resources"
+  ],
+  "author": "Tejas Suthar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejasrsuthar/Awesome-NodeJS/issues"
+  },
+  "homepage": "https://github.com/tejasrsuthar/Awesome-NodeJS#readme"
+}
