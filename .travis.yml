@@ -6,6 +6,7 @@ node_js:
 before_script:
   - git config --global user.email "fo@bar.com"
   - git config --global user.name "Foo Bar"
+  - npm install --save-dev mocha
   - npm install -g mocha
 
 script:
