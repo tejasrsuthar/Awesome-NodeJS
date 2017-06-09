@@ -10,7 +10,7 @@ before_script:
   - npm install -g mocha
 
 script:
-  - npm mocha
+  - npm test
 
 notifications:
   email:
