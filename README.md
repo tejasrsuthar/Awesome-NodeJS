@@ -1,4 +1,4 @@
-# :two_hearts: Awesome NodeJS :two_hearts:
+# :two_hearts: Awesome NodeJS :two_hearts:   [![Build Status](https://travis-ci.org/tejasrsuthar/Awesome-NodeJS.svg?branch=master)](https://travis-ci.org/tejasrsuthar/Awesome-NodeJS)
 
 :writing_hand:  :writing_hand: A curated collection of best NodeJS Resources
  
