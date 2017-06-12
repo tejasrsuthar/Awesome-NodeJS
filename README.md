@@ -105,6 +105,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 
 ## Frameworks
 *Web Develpoment Frameworks*
+- [Moleculer Microservices Framework](http://moleculer.services/) - Fast & powerful microservices framework for NodeJS
 - [Async](http://caolan.github.io/async/) - Utility module provides convinent Async operations
 - [Strapi](http://strapi.io/) - The next generation framework for Node.js
 - [Cylon](https://github.com/hybridgroup/cylon/) - NodeJS framework for robotics, drones, and the Internet of Things
