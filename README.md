@@ -124,6 +124,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [ActionHero](http://www.actionherojs.com/)
 - [sequelizejs](http://docs.sequelizejs.com/en/v3/) - ORM framework for PostgreSQL, MySQL, SQLite and MSSQL
 - [Socket.io](http://socket.io/)
+- [AllCountJS](https://allcountjs.com/) - Open source full-stack Node.js framework for rapid application development
 
 ## CMS
 - [Ghost](https://ghost.org/) - The professional publishing platform developed in NodeJS
