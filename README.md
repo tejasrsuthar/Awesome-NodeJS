@@ -125,6 +125,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [sequelizejs](http://docs.sequelizejs.com/en/v3/) - ORM framework for PostgreSQL, MySQL, SQLite and MSSQL
 - [Socket.io](http://socket.io/)
 - [AllCountJS](https://allcountjs.com/) - Open source full-stack Node.js framework for rapid application development
+- [Socketstream](http://socketstream.org/) - Socketstream is a framework for Realtime Web Apps
 
 ## CMS
 - [Ghost](https://ghost.org/) - The professional publishing platform developed in NodeJS
