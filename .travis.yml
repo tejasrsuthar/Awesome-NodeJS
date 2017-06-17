@@ -15,7 +15,7 @@ script:
 notifications:
   email:
     recipients:
-      - tejas.suthar@flinnt.com
+      - tejact2007@gmail.com
     on_success: always
     on_failure: always
 
