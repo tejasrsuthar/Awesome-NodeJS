@@ -105,6 +105,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 
 ## Frameworks
 *Web Develpoment Frameworks*
+- [x2](http://x2node.com/) - A collection of modules published with NPM and designed to provide a complete toolset for creating back-end applications that expose RESTful APIs and are backed with a SQL database.
 - [TotalJS](https://www.totaljs.com/)
 - [Moleculer Microservices Framework](http://moleculer.services/) - Fast & powerful microservices framework for NodeJS
 - [Async](http://caolan.github.io/async/) - Utility module provides convinent Async operations
