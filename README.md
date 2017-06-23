@@ -128,6 +128,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Socket.io](http://socket.io/)
 - [AllCountJS](https://allcountjs.com/) - Open source full-stack Node.js framework for rapid application development
 - [Socketstream](http://socketstream.org/) - Socketstream is a framework for Realtime Web Apps
+- [PartialJS](http://www.partialjs.com/) 
 
 ## CMS
 - [Ghost](https://ghost.org/) - The professional publishing platform developed in NodeJS
