@@ -29,6 +29,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 
 ## NodeJS Community
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/node.js) - Stackoverflow NodeJS Tag
+- [Hackr.io](https://hackr.io/tutorials/learn-node-js) - Community Curated
 - [Github Issues list](https://github.com/nodejs/node/issues)
 - [freenode's WebChat](http://webchat.freenode.net/?channels=node.js)
 - [NodeJS Everywhere](https://newsletter.nodejs.org/) - The official Node.js Weekly Newsletter.
