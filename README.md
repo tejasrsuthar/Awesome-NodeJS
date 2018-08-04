@@ -21,6 +21,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Debugging Tools](#debugging-tools)
 - [Routers](#routers)
 - [Form Validation](#form-validation)
+- [Cron](#cron)
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
@@ -178,6 +179,9 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Caolan/forms](https://github.com/caolan/forms) - An easy way to create, parse and validate forms in node.js
 - [express-validator](https://www.npmjs.com/package/express-validator) - An express.js middleware for node-validator.
 - [express-form](https://github.com/dandean/express-form) - Form validation and data filtering for Express
+
+## Cron
+- [node-reel](https://github.com/shakee93/node-reel) - Human friendly cron for NodeJS/Express
 
 ## Tutorials
 *Best NodeJS learning tutorials*
