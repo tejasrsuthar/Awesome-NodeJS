@@ -183,6 +183,9 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 ## Cron
 - [node-reel](https://github.com/shakee93/node-reel) - Human friendly cron for NodeJS/Express
 
+## Console - Terminal
+- [Chalk](https://www.npmjs.com/package/chalk) - Terminal string styling done right
+
 ## Tutorials
 *Best NodeJS learning tutorials*
 - [Tutorials Point](http://www.tutorialspoint.com/nodejs/) 
