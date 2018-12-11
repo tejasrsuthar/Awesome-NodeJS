@@ -36,6 +36,8 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [NodeJS Everywhere](https://newsletter.nodejs.org/) - The official Node.js Weekly Newsletter.
 - [NodeUp](http://nodeup.com/) - A podcast covering the latest Node news in the community.
 - [NodeJS Gitter](https://gitter.im/nodejs/node)
+- [NodeJS Discord](https://discord.gg/96WGtJt) - The 🔮 Magic NodeJS Discord Server
+
 
 ## Articles Tutorials Blogs Etc
 *Latest articles, tutorials, blogs collection*
