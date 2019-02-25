@@ -202,7 +202,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Handson NodeJs](https://leanpub.com/hands-on-nodejs)
 - [Node Beginner](https://leanpub.com/nodebeginner)
 - [Smashing NodeJS](https://www.amazon.com/dp/B008Z5OEUY/)
-
+- [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
 
 ## Videos
 *Videos to learn NodeJS*
