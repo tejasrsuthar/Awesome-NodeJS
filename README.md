@@ -107,6 +107,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
 - [How to use JavaScript closures efficiently and avoid memory leaks in your Node.js apps](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
 - [E-commerce for Node.js Developers [with Koa.js tutorial]](https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial)
+- [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide)
 
 
 ## Frameworks
