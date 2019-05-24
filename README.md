@@ -27,6 +27,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Videos](#videos)
 - [Screencasts](#screencasts)
 - [Learning Courses](#learning-courses)
+- [Performance Testing] (#performance-testing)
 
 ## NodeJS Community
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/node.js) - Stackoverflow NodeJS Tag
@@ -246,6 +247,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Build an Image Streaming App With Node.js](https://www.codeschool.com/screencasts/build-an-image-streaming-app-with-node-js)
 - [NODE.JS LIVE Online & Classroom Training/Tutorial](http://www.springpeople.com/courses/online/nodejs-jumpstart-workshop-training-course)
 
-
+## Performance Testing
+- [Like unit-testing, for performance](https://k6.io)
 
  
