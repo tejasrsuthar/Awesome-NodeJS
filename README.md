@@ -43,6 +43,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 
 ## Articles Tutorials Blogs Etc
 *Latest articles, tutorials, blogs collection*
+- [Enforcing quality for NodeJS](https://hackernoon.com/enforcing-code-quality-for-node-js-c3b837d7ae17)
 - [Building consumer apps with NodeJS](https://venturebeat.com/2012/01/07/building-consumer-apps-with-node/)
 - [Node.js at Scale - for advanced developers](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/) 
 - [Hard-won Lessions](https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js)
