@@ -28,8 +28,8 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Videos](#videos)
 - [Screencasts](#screencasts)
 - [Learning Courses](#learning-courses)
-- [Performance Testing] (#performance-testing)
-- [Tips & Tricks] (#tips-and-tricks)
+- [Performance Testing](#performance-testing)
+- [Tips & Tricks](#tips-and-tricks)
 
 ## NodeJS Community
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/node.js) - Stackoverflow NodeJS Tag
