@@ -29,6 +29,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Screencasts](#screencasts)
 - [Learning Courses](#learning-courses)
 - [Performance Testing] (#performance-testing)
+- [Tips & Tricks] (#tips-and-tricks)
 
 ## NodeJS Community
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/node.js) - Stackoverflow NodeJS Tag
@@ -252,4 +253,5 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 ## Performance Testing
 - [Like unit-testing, for performance](https://k6.io)
 
- 
+## Tips and Tricks
+- [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs)
