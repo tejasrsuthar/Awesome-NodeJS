@@ -163,6 +163,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Node Inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [Joyent's Guide](https://www.joyent.com/node-js/production/debug)
 - [Visual Studio Code](https://code.visualstudio.com/docs/runtimes/nodejs#_debugging-your-node-application)
+- [Find and fix vulnerabilities in your dependencies](https://snyk.io)
 
 ## Article Series
 *Web Develpoment Article Series collection*
