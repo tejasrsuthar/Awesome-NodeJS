@@ -20,6 +20,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Admin/Frontend](#adminfrontend)
 - [Database Drivers](#database-drivers)
 - [Debugging Tools](#debugging-tools)
+- [Command line Tools](#command-line-tools)
 - [Routers](#routers)
 - [Form Validation](#form-validation)
 - [Cron](#cron)
@@ -164,6 +165,9 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Joyent's Guide](https://www.joyent.com/node-js/production/debug)
 - [Visual Studio Code](https://code.visualstudio.com/docs/runtimes/nodejs#_debugging-your-node-application)
 - [Find and fix vulnerabilities in your dependencies](https://snyk.io)
+
+## Command line Tools
+- [Pageres](https://github.com/sindresorhus/pageres)
 
 ## Article Series
 *Web Develpoment Article Series collection*
