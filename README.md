@@ -20,6 +20,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Admin/Frontend](#adminfrontend)
 - [Database Drivers](#database-drivers)
 - [Debugging Tools](#debugging-tools)
+- [Logging](#logging)
 - [Command line Tools](#command-line-tools)
 - [Routers](#routers)
 - [Form Validation](#form-validation)
@@ -166,6 +167,13 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Visual Studio Code](https://code.visualstudio.com/docs/runtimes/nodejs#_debugging-your-node-application)
 - [Find and fix vulnerabilities in your dependencies](https://snyk.io)
 
+## Logging
+ - [Morgan - HTTP request logger middleware for node.js](https://www.npmjs.com/package/morgan)
+ - [Winston - A logger for just about everything](https://github.com/winstonjs/winston)
+ - [log4js - A port of log4js to node.js](https://github.com/log4js-node/log4js-node)
+ - [Express-winston - winston middleware for express.js](https://www.npmjs.com/package/express-winston)
+ - [Bunyan - A simple and fast JSON logging module for node.js services](https://github.com/trentm/node-bunyan)
+ 
 ## Command line Tools
 - [Pageres](https://github.com/sindresorhus/pageres)
 
