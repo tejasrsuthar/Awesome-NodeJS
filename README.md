@@ -224,6 +224,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Node Beginner](https://leanpub.com/nodebeginner)
 - [Smashing NodeJS](https://www.amazon.com/dp/B008Z5OEUY/)
 - [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
+- [Free Node.JS books](https://devfreebooks.github.io/nodejs/)
 
 ## Videos
 *Videos to learn NodeJS*
