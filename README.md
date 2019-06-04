@@ -21,6 +21,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Database Drivers](#database-drivers)
 - [Debugging Tools](#debugging-tools)
 - [Logging](#logging)
+- [Streams](#streams)
 - [Command line Tools](#command-line-tools)
 - [Routers](#routers)
 - [Form Validation](#form-validation)
@@ -173,6 +174,12 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
  - [log4js - A port of log4js to node.js](https://github.com/log4js-node/log4js-node)
  - [Express-winston - winston middleware for express.js](https://www.npmjs.com/package/express-winston)
  - [Bunyan - A simple and fast JSON logging module for node.js services](https://github.com/trentm/node-bunyan)
+ 
+## Streams
+ - [into-stream - Convert a buffer/string/array/object into a stream](https://github.com/sindresorhus/into-stream)
+ - [from2 - Convenience wrapper for ReadableStream, inspired by through2](https://github.com/hughsk/from2)
+ - [through2 - Tiny wrapper around streams2 Transform to avoid explicit subclassing noise](https://github.com/rvagg/through2)
+ - [get-stream - Get a stream as a string or buffer](https://github.com/sindresorhus/get-stream)
  
 ## Command line Tools
 - [Pageres](https://github.com/sindresorhus/pageres)
