@@ -47,6 +47,16 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 
 ## Articles Tutorials Blogs Etc
 *Latest articles, tutorials, blogs collection*
+- [Impress your colleagues with these NPM tricks](https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb)
+- [How to build a Node.js eCommerce website for free](https://adrianmejia.com/how-to-build-a-node-js-ecommerce-website-for-free)
+- [Building Live Streaming App with Node.js and React](https://quantizd.com/building-live-streaming-app-with-node-js-and-react)
+- [Build A Node.js API Authentication With JWT Tutorial](https://www.youtube.com/watch?v=2jqok-WgelI&utm_campaign=read_more)
+- [How to Use Computer Vision to Automatically Filter Images with Node.js](https://dev.to/heroku/how-to-use-computer-vision-to-automatically-filter-images-3g7k)
+- [How to build a blazing fast GraphQL API with Node.js, MongoDB and Fastify](https://medium.com/free-code-camp/how-to-build-a-blazing-fast-graphql-api-with-node-js-mongodb-and-fastify-77fd5acd2998&utm_campaign=read_more)
+- [2.1 Server-side with Node.js - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=wxbQP1LMZsw)
+- [A Guide to Node.js Logging](https://www.twilio.com/blog/guide-node-js-logging&utm_campaign=read_more)
+- [Node.js memory management in container environments](https://developer.ibm.com/articles/nodejs-memory-management-in-container-environments/)
+- [You don't need passport.js - Guide to node.js authentication](https://softwareontheroad.com/nodejs-jwt-authentication-oauth)
 - [Enforcing quality for NodeJS](https://hackernoon.com/enforcing-code-quality-for-node-js-c3b837d7ae17)
 - [Building consumer apps with NodeJS](https://venturebeat.com/2012/01/07/building-consumer-apps-with-node/)
 - [Node.js at Scale - for advanced developers](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/) 
