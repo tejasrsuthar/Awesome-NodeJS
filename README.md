@@ -177,6 +177,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [Joyent's Guide](https://www.joyent.com/node-js/production/debug)
 - [Visual Studio Code](https://code.visualstudio.com/docs/runtimes/nodejs#_debugging-your-node-application)
 - [Find and fix vulnerabilities in your dependencies](https://snyk.io)
+- [Node.JS Profilers] (https://stackify.com/node-js-profilers/)
 
 ## Logging
  - [Morgan - HTTP request logger middleware for node.js](https://www.npmjs.com/package/morgan)
