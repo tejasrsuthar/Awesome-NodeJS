@@ -153,7 +153,7 @@ Inspired by :thumbsup: [ziadoz/awesome-php](https://github.com/ziadoz/awesome-ph
 - [AllCountJS](https://allcountjs.com/) - Open source full-stack Node.js framework for rapid application development
 - [Socketstream](http://socketstream.org/) - Socketstream is a framework for Realtime Web Apps
 - [PartialJS](http://www.partialjs.com/) 
-
+- [MoleculerJS Boilerplate](https://github.com/pankod/moleculerjs-boilerplate) - A well-structured Moleculer JS Boilerplate with Typescript, CLI, Service Helpers, Swagger, Jest support and everything you'll ever need to deploy rock solid projects.
 ## CMS
 - [Ghost](https://ghost.org/) - The professional publishing platform developed in NodeJS
 - [Keystone](http://keystonejs.com/) - Node.js CMS & Web Application Platform
