@@ -17,12 +17,12 @@
     {
       "key": "README.mdx",
       "value": {
+        "name": "Resources",
+        "route": "/",
         "id": "075c8e9dd56c748f3da128a33861a770",
         "filepath": "README.mdx",
         "link": "https://github.com/tejasrsuthar/Awesome-NodeJS/edit/master/README.mdx",
         "slug": "readme",
-        "route": "/readme",
-        "name": "Readme",
         "menu": "",
         "headings": [
           {
@@ -39,16 +39,6 @@
             "slug": "table-of-contents",
             "depth": 2,
             "value": "Table of Contents"
-          },
-          {
-            "slug": "nodejs-community",
-            "depth": 2,
-            "value": "NodeJS Community"
-          },
-          {
-            "slug": "articles-tutorials-blogs-etc",
-            "depth": 2,
-            "value": "Articles Tutorials Blogs Etc"
           },
           {
             "slug": "frameworks",
@@ -149,6 +139,44 @@
             "slug": "tips-and-tricks",
             "depth": 2,
             "value": "Tips and Tricks"
+          }
+        ]
+      }
+    },
+    {
+      "key": "articles-tutorials-blog.mdx",
+      "value": {
+        "name": "Articles, Tutorials, Blogs",
+        "route": "/node-js-articles-tutorials-blogs",
+        "id": "443e57377c519a277b651bb14b28ecc7",
+        "filepath": "articles-tutorials-blog.mdx",
+        "link": "https://github.com/tejasrsuthar/Awesome-NodeJS/edit/master/articles-tutorials-blog.mdx",
+        "slug": "articles-tutorials-blog",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "articles-tutorials-blogs-resources",
+            "depth": 2,
+            "value": "Articles Tutorials Blogs Resources"
+          }
+        ]
+      }
+    },
+    {
+      "key": "node-js-community.mdx",
+      "value": {
+        "name": "NodeJS Community",
+        "route": "/node-js-community-resources",
+        "id": "255a1c2b2415c662dda5de36b3740a1a",
+        "filepath": "node-js-community.mdx",
+        "link": "https://github.com/tejasrsuthar/Awesome-NodeJS/edit/master/node-js-community.mdx",
+        "slug": "node-js-community",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "nodejs-community-resources",
+            "depth": 2,
+            "value": "NodeJS Community Resources"
           }
         ]
       }
