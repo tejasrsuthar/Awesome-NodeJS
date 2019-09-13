@@ -1,0 +1,155 @@
+{
+  "config": {
+    "title": "Awesome Node Js",
+    "description": "Curated directory for node js resources",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": "https://github.com/tejasrsuthar/Awesome-NodeJS",
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README_test.mdx",
+      "value": {
+        "id": "9e253c1842e856839a4f3f53fa1c97c3",
+        "filepath": "README_test.mdx",
+        "link": "https://github.com/tejasrsuthar/Awesome-NodeJS/edit/master/README_test.mdx",
+        "slug": "readme-test",
+        "route": "/readme-test",
+        "name": "Readme test",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "-awesome-nodejs----build-status-prs-welcome",
+            "depth": 1,
+            "value": "💕 Awesome NodeJS 💕     "
+          },
+          {
+            "slug": "️--pull-requests-are-most-welcome-if-you-found-great-resource-about-nodejs",
+            "depth": 4,
+            "value": "⚓️  Pull requests are most welcome, if you found great resource about NodeJS"
+          },
+          {
+            "slug": "table-of-contents",
+            "depth": 2,
+            "value": "Table of Contents"
+          },
+          {
+            "slug": "nodejs-community",
+            "depth": 2,
+            "value": "NodeJS Community"
+          },
+          {
+            "slug": "articles-tutorials-blogs-etc",
+            "depth": 2,
+            "value": "Articles Tutorials Blogs Etc"
+          },
+          {
+            "slug": "frameworks",
+            "depth": 2,
+            "value": "Frameworks"
+          },
+          {
+            "slug": "cms",
+            "depth": 2,
+            "value": "CMS"
+          },
+          {
+            "slug": "adminfrontend",
+            "depth": 2,
+            "value": "Admin/Frontend"
+          },
+          {
+            "slug": "database-driversclients",
+            "depth": 2,
+            "value": "Database Drivers/Clients"
+          },
+          {
+            "slug": "debugging-tools",
+            "depth": 2,
+            "value": "Debugging Tools"
+          },
+          {
+            "slug": "logging",
+            "depth": 2,
+            "value": "Logging"
+          },
+          {
+            "slug": "streams",
+            "depth": 2,
+            "value": "Streams"
+          },
+          {
+            "slug": "command-line-tools",
+            "depth": 2,
+            "value": "Command line Tools"
+          },
+          {
+            "slug": "article-series",
+            "depth": 2,
+            "value": "Article Series"
+          },
+          {
+            "slug": "routers",
+            "depth": 2,
+            "value": "Routers"
+          },
+          {
+            "slug": "form-validation",
+            "depth": 2,
+            "value": "Form Validation"
+          },
+          {
+            "slug": "cron",
+            "depth": 2,
+            "value": "Cron"
+          },
+          {
+            "slug": "console---terminal",
+            "depth": 2,
+            "value": "Console - Terminal"
+          },
+          {
+            "slug": "tutorials",
+            "depth": 2,
+            "value": "Tutorials"
+          },
+          {
+            "slug": "books",
+            "depth": 2,
+            "value": "Books"
+          },
+          {
+            "slug": "videos",
+            "depth": 2,
+            "value": "Videos"
+          },
+          {
+            "slug": "screencasts",
+            "depth": 2,
+            "value": "Screencasts"
+          },
+          {
+            "slug": "learning-courses",
+            "depth": 2,
+            "value": "Learning Courses"
+          },
+          {
+            "slug": "performance-testing",
+            "depth": 2,
+            "value": "Performance Testing"
+          },
+          {
+            "slug": "tips-and-tricks",
+            "depth": 2,
+            "value": "Tips and Tricks"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
