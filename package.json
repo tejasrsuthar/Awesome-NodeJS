@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test",
-    "docz:dev": "docz dev",
-    "docz:build": "docz build"
+    "dev": "docz dev",
+    "build": "docz build"
   },
   "repository": {
     "type": "git",
