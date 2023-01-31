@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/tejasrsuthar/Awesome-NodeJS.git"
   },
+  "engines": { "node": "16.x" },
   "keywords": [
     "nodejs",
     "resources"
