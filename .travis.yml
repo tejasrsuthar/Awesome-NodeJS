@@ -1,7 +1,7 @@
 language: node_js
 
 node_js:
-  - stable
+  - 16
 
 before_script:
   - git config --global user.email "fo@bar.com"
